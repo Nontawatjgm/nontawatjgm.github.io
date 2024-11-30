@@ -5,4 +5,4 @@
 
 ![alt text](Image_GIT/รูป.jpeg)
 
-[Click me](authorization.md)
+[Authorization](authorization.md)
