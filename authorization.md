@@ -21,6 +21,3 @@
 
  [ไปยังหน้าProfileของเพื่อน](https://nantta.github.io/)
  [ไปยังหน้างานของเพื่อน](https://nantta.github.io/authorization/)
- [Back](https://nontawatjgm.github.io/)
- 
-
