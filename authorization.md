@@ -20,6 +20,7 @@
   - การเข้าใช้ระบบ Wi-Fi โรงแรมหรือร้านกาแฟอาจให้รหัส Wi-Fi ที่มีสิทธิ์จำกัด เช่น ใช้เฉพาะการเข้าถึงอินเทอร์เน็ต แต่ไม่สามารถเข้าถึงการตั้งค่าภายในเครือข่ายของร้านได้
 
  [ไปยังหน้าProfileของเพื่อน](https://nantta.github.io/)
- [ไปยังหน้างานของเพื่อน](https://nantta.github.io/authorization)
+ [ไปยังหน้างานของเพื่อน](https://nantta.github.io/authorization/)
+ [Back](https://nantta.github.io/authorization/)
  
 
