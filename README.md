@@ -10,3 +10,5 @@
 [E-Chirstmas card](ecard.md)
 
 [Completeness](completeness.md)
+
+[Boardgame](boardgame.md)
