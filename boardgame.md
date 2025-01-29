@@ -41,7 +41,7 @@
 
 
 ## สมาชิกคนอื่นในกลุ่ม
-### - [Peeramate Jukkasat](https://devpeeramate.github.io/board-game)
+- [Peeramate Jukkasat](https://devpeeramate.github.io/board-game)
 <!---
 ### - [Porawapat Mutarapat]()
 ### - [Sathaporn Sattayachiti]()
