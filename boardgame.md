@@ -42,9 +42,9 @@
 
 ## สมาชิกคนอื่นในกลุ่ม
 - [Peeramate Jukkasat](https://devpeeramate.github.io/board-game)
-<!---
-### - [Porawapat Mutarapat]()
-### - [Sathaporn Sattayachiti]()
-### - [4](https://6530250158.github.io/board-game)
--->
+
+- [Porawapat Mutarapat]()
+- [Sathaporn Sattayachiti]()
+- [4]()
+
 [Back](README.md)
