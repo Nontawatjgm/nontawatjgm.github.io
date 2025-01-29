@@ -39,11 +39,12 @@
 ## Note
 **ทางกลุ่มผู้จัดทำได้ขออนุญาตแล้ว ในการถ่ายรูป ถ่ายวิดีโอและการเผยแพร่ลงสื่อ Social Media**
 
-<!---
+
 ## สมาชิกคนอื่นในกลุ่ม
-###### - [1](https://6530200401.github.io/board-game)
-###### - [2](https://6530200461.github.io/board-game)
-###### - [3](https://1Dev04.github.io/board-game)
-###### - [4](https://6530250158.github.io/board-game)
+### - [Peeramate Jukkasat](https://devpeeramate.github.io/board-game)
+<!---
+### - [Porawapat Mutarapat]()
+### - [Sathaporn Sattayachiti]()
+### - [4](https://6530250158.github.io/board-game)
 -->
 [Back](README.md)
