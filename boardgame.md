@@ -44,6 +44,6 @@
 - [Nutparit Somboon](https://6530200151.github.io/board-game)
 - [Peeramate Jukkasat](https://devpeeramate.github.io/board-game)
 - [Porawapat Mutarapat](https://porawapat-github.github.io/cyber-board-game)
-- [Sathaporn Sattayachiti]()
+- [Sathaporn Sattayachiti](https://sathaporn-sat.github.io/board-game)
 
 [Back](README.md)
