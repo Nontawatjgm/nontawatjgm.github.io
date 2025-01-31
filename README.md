@@ -12,3 +12,5 @@
 [Completeness](completeness.md)
 
 [Boardgame](boardgame.md)
+
+[Security control](security-control.md)
