@@ -14,6 +14,7 @@
 - 📊 [Completeness](completeness.md)  
 - 🎲 [Boardgame](boardgame.md)  
 - 🔒 [Security Control](security-control.md)  
-- 🗳️ [Pao Elections](pao-elections.md)  
+- 🗳️ [Pao Elections](pao-elections.md)
+- 🛡️ [Security requirement](security-requirement.md)
 
 ---
