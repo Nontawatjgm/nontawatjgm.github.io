@@ -4,7 +4,7 @@
 - Completeness: This represents the amount of data that is usable or complete. If there is a high percentage of missing values, it may lead to a biased or misleading analysis if the data is not representative of a typical data sample.
 - แปล = ความสมบูรณ์ หมายถึงปริมาณข้อมูลที่สามารถใช้งานได้หรือสมบูรณ์ หากมีค่าที่ขาดหายไปเป็นจำนวนมาก อาจนำไปสู่การวิเคราะห์ที่ลำเอียงหรือทำให้เข้าใจผิดได้หากข้อมูลไม่เป็นตัวแทนของตัวอย่างข้อมูลทั่วไป
 
-## Source: https://www.ibm.com/topics/data-quality
+## Source: [https://www.ibm.com/topics/data-quality](https://www.ibm.com/topics/data-quality)
 
 ## Meaning by ChatGPT
 - ระดับที่ข้อมูลมีความสมบูรณ์และสามารถตอบสนองความต้องการของผู้ใช้งานได้โดยไม่มีข้อมูลสำคัญที่ขาดหายไป ซึ่งเป็นพื้นฐานสำคัญสำหรับการตัดสินใจและการวิเคราะห์ที่แม่นยำและน่าเชื่อถือ
